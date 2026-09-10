@@ -1,1 +1,1 @@
-# AiPacman
+# AI Pac-Man
